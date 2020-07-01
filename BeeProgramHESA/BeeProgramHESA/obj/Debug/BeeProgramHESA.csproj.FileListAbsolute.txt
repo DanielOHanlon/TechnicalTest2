@@ -1,0 +1,10 @@
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.Form1.resources
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.Properties.Resources.resources
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.csproj.GenerateResource.cache
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\bin\Debug\BeeProgramHESA.exe.config
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\bin\Debug\BeeProgramHESA.exe
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\bin\Debug\BeeProgramHESA.pdb
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.exe
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.pdb
+C:\Users\daniel.ohanlon\source\repos\BeeProgramHESA\BeeProgramHESA\obj\Debug\BeeProgramHESA.csprojAssemblyReference.cache
